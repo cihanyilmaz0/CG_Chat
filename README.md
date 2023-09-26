@@ -1,16 +1,12 @@
-# cgchat
+# Social Media App
 
-A new Flutter project.
+This project aims to create a small-scale social media application. The application will allow users to register, log in, and have the following core functionalities:
 
-## Getting Started
+- Users can write and share their thoughts on a page called the "wall."
+- Users can like posts.
+- Users can view the profile information of the user who posted a particular post and send them messages.
+- Users can update their profile information.
 
-This project is a starting point for a Flutter application.
+## Usage
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+After running the application, users can register, log in, and use the social media application.
