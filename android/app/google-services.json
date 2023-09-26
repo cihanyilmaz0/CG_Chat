@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "349034819471",
+    "project_id": "cgchat-d4b93",
+    "storage_bucket": "cgchat-d4b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349034819471:android:3a399b166be4f7202825fa",
+        "android_client_info": {
+          "package_name": "com.cihanyilmaz.chat.cgchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349034819471-0a8okclf6hc2obrijdse9ip7psise97m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cihanyilmaz.chat.cgchat",
+            "certificate_hash": "6710f787f504adfe5f7fb155287fd1a746200ef7"
+          }
+        },
+        {
+          "client_id": "349034819471-ocilhln6bdk7dhnavt4h299lhtranelo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYlfEzKx9SDlKItNQzV8-30NumeUizOv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349034819471-ocilhln6bdk7dhnavt4h299lhtranelo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
